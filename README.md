@@ -81,19 +81,3 @@ Contributions to the AI Interview Assistant are welcome. Please follow these ste
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
-
-Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
-
-## License
-
-This project uses the following license: [Common Development and Distribution License 1.0](https://opensource.org/license/cddl-1-0).
-
-## Contact
-
-If you want to contact me, you can reach me at <pixelpump@gmail.com>.
-
-## Acknowledgements
-
-- [OpenAI](https://openai.com/) for providing the GPT and text-to-speech APIs
-- [Eel](https://github.com/ChrisKnott/Eel) for the Python/JavaScript integration
-- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) for the speech recognition functionality
